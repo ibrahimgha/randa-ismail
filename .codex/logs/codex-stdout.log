@@ -1,0 +1,3 @@
+Updated the Instagram link in [index.html](/srv/worktrees/randa-ismail/59/index.html#L158) to `https://www.instagram.com/randaismailh/`.
+
+Verification: confirmed with `git diff`. No automated tests were available to run in this static HTML/CSS/JS repo.

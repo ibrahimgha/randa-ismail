@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "deny_patterns": [],
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "*",
+        "command": "python /srv/worktrees/randa-ismail/59/.codex/hooks/pre_tool_use.py"
+      }
+    ]
+  }
+}
